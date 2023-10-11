@@ -1,0 +1,9 @@
+Python is very useful for a lot of things, but it excels at modelling things for data science
+purposes, like managing large groups of numbers and plotting graphs. This project folder will go
+through everything that you need to learn the basics of data science using Python, through
+libraries like Numpy, Pandas and Matplotlib.
+
+Well, I won't waste any more of your time, so go ahead and check out the file under this one!
+(Downloading your libraries.txt)
+
+Good luck on your journey!

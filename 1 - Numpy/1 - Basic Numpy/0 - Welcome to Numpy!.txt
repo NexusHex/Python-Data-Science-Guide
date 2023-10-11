@@ -1,0 +1,4 @@
+Welcome to Numpy! Numpy is a Python library that is mainly used in data science to represent arrays of values, and it is short for Numerical Python.
+This directory of the Data Science project will go through all the things you need to master Numpy, and use its powers to the max.
+
+I hope you have fun learning about Numpy! Good luck and have fun!
