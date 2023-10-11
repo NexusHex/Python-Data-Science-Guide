@@ -1,9 +1,0 @@
-Universal functions are very fast functions that are used to implement vectorization on an array(s)
-
-Vectorization is converting iterables (list, array, tuple, dictionary etc.) into vectors.
-This is faster than iterating over the iterable using something like a for loop, since computer CPUs are better designed for vectorization rather than iteration
-
-Universal functions save you time on the keyboard, and at runtime, so there really isn't any harm in using them in your code to boost its efficiency.
-
-Good luck with learning about these cool functions!
-NOTE: I will skip some of the topics that were taught since they do not apply to everyday life as a coder, like creating logarithms
