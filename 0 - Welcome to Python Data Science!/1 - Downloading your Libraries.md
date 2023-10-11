@@ -2,8 +2,11 @@ First off, you need to get the powers needed to manipulate the data in the first
 
 These are the packages you will need to use in this project:
 > Numpy
+> 
 > Pandas
+>
 > Matplotlib (specifically the pyplot submodule)
+>
 > Seaborn
 
 Make sure you have Python installed to its latest version (3.12.0 at the time of writing this)
@@ -16,11 +19,17 @@ To download the libraries required on a Windows machine, you can type out the fo
 Command Prompt application:
 
 >> python -m pip install numpy pandas matplotlib seaborn
+>> 
 > Or...
+>
 >> py -m pip install numpy
+>> 
 >> py -m pip install pandas
+>>
 >> py -m pip install matplotlib
+>>
 >> py -m pip install seaborn
+>>
 >> Make sure to let one installation finish, then start the next one
 
 This will download all 4 libraries. Let it download and move on once it's finished!
@@ -29,11 +38,17 @@ This will download all 4 libraries. Let it download and move on once it's finish
 To download the libraries on a Mac, use this text snippet in the Terminal application:
 
 >> python3 -m pip install numpy pandas matplotlib seaborn
+>>
 > Or...
+>
 >> python3 -m pip install numpy
+>>
 >> python3 -m pip install pandas
+>> 
 >> python3 -m pip install matplotlib
+>> 
 >> python3 -m pip install seaborn
+>> 
 >> Make sure to let one installation finish, then start the next one
 
 This will download all 4 libraries. Let it download and move on once it's finished!
